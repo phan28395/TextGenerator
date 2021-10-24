@@ -1,2 +1,2 @@
-# TextGenerator
+# TextAutoGuessing
 A simple text auto guessing
