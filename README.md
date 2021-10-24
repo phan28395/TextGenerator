@@ -1,2 +1,2 @@
 # TextGenerator
-WorkWithTextFile
+A simple text auto guessing
